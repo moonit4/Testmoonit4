@@ -1,2 +1,3 @@
 Bienvenid@s 
-La carpeta Colabora contiene los archivos en los que Moonit4 realiza cambios al SuperBlog
+La carpeta en la que colabora Monita.
+Contiene los archivos en los que moonit4 realiza cambios.
